@@ -1,0 +1,6 @@
+framework module Pods_FrogmiTest {
+  umbrella header "Pods-FrogmiTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
